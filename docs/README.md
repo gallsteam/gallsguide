@@ -4,7 +4,7 @@
 
 The Galls front-end is built on the Bootstrap Framework and you can take advantage of most functionality seen in their [documentation](http://getbootstrap.com/css/). Please read and familiarize yourself with the CSS and components.
 
-This documentation is written with Markdown, you may use this [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code) to learn and update this guide.
+This documentation is hosted on [Github](https://github.com/gallsteam/gallsguide_written) with Markdown, you may use this [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code) to learn and update this guide.
 ## Downloads
 Coming soon.
 
