@@ -1,8 +1,12 @@
-# Welcome
+# Getting Started
 
 !> Please contact **moore-john@galls.com** for any problems or suggestions.
 
-The Galls front-end is built on the Bootstrap Framework and you can take advantage of most functionality seen in their [documentation](http://getbootstrap.com/css/)
+The Galls front-end is built on the Bootstrap Framework and you can take advantage of most functionality seen in their [documentation](http://getbootstrap.com/css/). Please read and familiarize yourself with the CSS and components.
+
+## Downloads
+Coming soon.
+
 
 # Fonts
 
@@ -31,6 +35,7 @@ Use Helvetica for all paragraphs and areas that require easy readability.
 !> All images must be saved as .JPG and ran through [ImageOptim](https://imageoptim.com/) before going live.
 
 # Responsive Helpers
+Coming soon.
 
 # Homepage
 
